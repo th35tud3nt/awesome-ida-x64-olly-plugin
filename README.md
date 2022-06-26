@@ -76,6 +76,9 @@ plugin.
 * [VMAttack](https://github.com/anatolikalysch/VMAttack): IDA Pro Plugin for static and dynamic virtualization-based packed analysis and deobfuscation.
 * [BinCAT](https://github.com/airbus-seclab/bincat): Binary code static analyser, with IDA integration. Performs value and taint analysis, type reconstruction, use-after-free and double-free detection.
 * [ttddbg - Time Travel Debugging IDA plugin](https://github.com/airbus-cert/ttddbg): This plugin adds a new debugger to IDA which supports loading Time Travel Debugging traces generated using WinDBG Preview.
+* [Sark](https://github.com/tmr232/Sark):  IDAPython Made Easy - Sark (named after the notorious Tron villain) is an object-oriented scripting layer written on top of IDAPython. Sark is easy to use and provides tools for writing advanced scripts and plugins.
+* [codemap](https://github.com/c0demap/codemap): Codemap is a binary analysis tool for "run-trace visualization" provided as IDA plugin.
+* [YaCo](https://github.com/DGA-MI-SSI/YaCo): YaCo is an Hex-Rays IDA plugin. When enabled, multiple users can work simultaneously on the same binary. Any modification done by any user is synchronized through git version control.
 
 ## Ghidra Plugins
 * [Ghidra Scripts](https://github.com/tacnetsol/ghidra_scripts): Port of devttyS0's IDA plugins to the Ghidra plugin framework, new plugins as well.
